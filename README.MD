@@ -1,7 +1,7 @@
 ## PARA INCIAR EL PROYECTO 
-``sh
+```sh
 npm install
-``
+```
 
 ## Integrantes
 
