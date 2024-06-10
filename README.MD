@@ -5,4 +5,4 @@ npm install
 
 ## Integrantes
 
-1.Juan Jorquera Retamales
+1. Juan Jorquera Retamales
